@@ -17,5 +17,10 @@ https://www.kaggle.com/datasets/skmewati/myntra-sales-dataset
 - Price MixMid - Range dominates (49.11%), Budget close behind (46.28%), Premium minimal (4.6%).
 - Reviews - Roadster leads with 1,100 reviews; WROGN ranks #1 by Index score.
 ## Pages
-Home : Revenue, discount, and price segment analysis.
-Trend Insights : Rating trends, product mix, brand ranking.
+- Home : Revenue, discount, and price segment analysis.
+- Trend Insights : Rating trends, product mix, brand ranking.
+## Process:
+- Data Collection — Downloaded Myntra dataset from Kaggle with brand, price, MRP, ratings, and discount details.
+- Data Cleaning — Removed nulls, fixed categories, and created new columns like Discount Saving and Revenue Lost.
+- Dashboard Building — Built a 2-page Power BI dashboard with charts, KPI cards, and filters.
+- Insights — Found that ₹82.66M was lost to discounts and customer ratings don't improve with higher discounts.
