@@ -25,4 +25,4 @@ https://www.kaggle.com/datasets/skmewati/myntra-sales-dataset
 - Dashboard Building — Built a 2-page Power BI dashboard with charts, KPI cards, and filters.
 - Insights — Found that ₹82.66M was lost to discounts and customer ratings don't improve with higher discounts.
 - ## Dashboard:
-- 
+- https://github.com/Sravanthi338/myntra-trends-pulse-POWER-BI-dashboard/commit/cec8d5f3a33ceae49e9427ff0afaac69df322579
