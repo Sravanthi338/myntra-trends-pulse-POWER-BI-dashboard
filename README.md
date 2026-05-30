@@ -24,3 +24,5 @@ https://www.kaggle.com/datasets/skmewati/myntra-sales-dataset
 - Data Cleaning — Removed nulls, fixed categories, and created new columns like Discount Saving and Revenue Lost.
 - Dashboard Building — Built a 2-page Power BI dashboard with charts, KPI cards, and filters.
 - Insights — Found that ₹82.66M was lost to discounts and customer ratings don't improve with higher discounts.
+- ## Dashboard:
+- 
